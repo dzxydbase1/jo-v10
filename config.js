@@ -1,6 +1,6 @@
 /**
-   * Create By THE JO BOT
-   * Base by Dika Ardnt
+   * Create By BUNGKALATAN
+   * Base by BAYU
 */
 
 const fs = require('fs')
@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'BUNGKALATAN'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
 global.owner = ['6287838031792','601117624138','601117624138']
 global.premium = ['37253697714']
-global.packname = 'aabu'
+global.packname = 'FPI'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
