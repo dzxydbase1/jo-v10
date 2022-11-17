@@ -22,8 +22,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6287838031792','601117624138','601117624138']
-global.premium = ['37253697714']
+global.owner = ['999999999']
+global.premium = ['37253697714','6287838031792',601117624138']
 global.packname = 'FPI'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
